@@ -1,18 +1,21 @@
 /* Write your code here: */
 
-h1, h2{
+
+
+h1 , h2{
     color: blueviolet;
 }
 
-.box > p{
+.box > p {
     color: firebrick;
 }
 
-.box li{
-    color: blue;
+.box li {
+    color: blue
+    ;
 }
 
-li.done{
+li.done {
     color: seagreen;
 }
 
