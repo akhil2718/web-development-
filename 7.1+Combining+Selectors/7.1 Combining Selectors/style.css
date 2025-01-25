@@ -1,24 +1,37 @@
 /* Write your code here: */
 
 
-
-h1 , h2{
+h1 , h2 {
     color: blueviolet;
 }
 
-.box > p {
-    color: firebrick;
+div > p {
+    color: seagreen;
 }
 
 .box li {
-    color: blue
-    ;
+    color: blue;
 }
+
 
 li.done {
     color: seagreen;
 }
 
-ul p.done{
+ul p.done {
     font-size: 0.5rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
